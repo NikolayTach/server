@@ -194,6 +194,24 @@ Afterwards, call `./dev <server language>` to run the server:
 ```bash
 cd /js/server
 ./dev en
+
+project
+(‘inf'):
+for read scheme 
+for array
+     mime 
+arr 
+ways01= [right click],
+      = [left click]
+from
+usr/forum   
+option 
+is 
+    image01.jpg, image02.jpg, image03.jpg 
+    run as default
+from
+url:
+”http://bookmarks.co”
 ```
 
 Running `./dev` uses the tutorial that was imported and cached by the previous command.
